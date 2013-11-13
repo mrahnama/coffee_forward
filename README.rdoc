@@ -1,4 +1,5 @@
-"= COFFEE FORWARD
+________ COFFEE FORWARD ________
+
 <em>This app will allow you to pay it forward!</em>
 
-This website allows you to forward a coffee to your friend.
+
