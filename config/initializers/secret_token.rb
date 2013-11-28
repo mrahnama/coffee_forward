@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-CoffeeForward::Application.config.secret_token = '8a71e7409b762ca520bf9e284558414e98dbd95ebdad87c5faae75488a8df6ad024952a00a585b14b9a1c73a4c3aadb2ce08980de13cbeb857a5f5797c92fb5a'
+CoffeeForward::Application.config.secret_token = '0ad6507e3383f80c1522b73418b2644a248a4cee336bf3302e7d800b100fa1c1ad9d2288130a9cd5970df8f2eb49b143f1be0c410e473fb2d6bf303dfc1ab8d2'
