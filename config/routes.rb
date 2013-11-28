@@ -5,6 +5,8 @@ CoffeeForward::Application.routes.draw do
 
   resources :gifts
 
+  root :to => "gifts#index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

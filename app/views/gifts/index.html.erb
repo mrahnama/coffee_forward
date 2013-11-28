@@ -20,8 +20,8 @@
 		</h4>
 		<%= form_for Gift.new, :html => { :class => "form-inline"} do |f| %>
 			<%= f.text_field :from, :class => "input-small", :placeholder => "From" %>
-			<%= f.text_field :message :class => "input-small" :placeholder => "Message" %>
-			<%= f.submit "Give Coffee" :class => "btn-success btn" %>
+			<%= f.text_field :message, :class => "input-small", :placeholder => "Message" %>
+			<%= f.submit "Give Coffee", :class => "btn-success btn" %>
 		<% end %>
 	</div>
 </div>
