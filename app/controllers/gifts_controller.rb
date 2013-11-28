@@ -25,5 +25,5 @@ OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
   	flash[:info] = "Thanks for giving the coffee"
   	redirect_to :back
   end
-end
+ end
 end
